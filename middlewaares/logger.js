@@ -20,4 +20,4 @@ const logermiddleware = (role) => {
 }
 }
 
-module.exports =    loggermiddleware
+module.exports = logermiddleware ;
