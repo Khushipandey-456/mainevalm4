@@ -13,7 +13,7 @@ app.get("/admin",()=>{
     console.log("This is Admin route.....")
 
 });
-app.get("/doctos",()=>{
+app.get("/doctors",()=>{
     console.log("This is doctors route.....")
 
 });
